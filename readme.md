@@ -2,7 +2,6 @@
 C++-based simulator for Mylar film, with electrostatic energy, 
 edge length energy, bending energy, boosted with openMP.
 
-To run the code, follow the three steps.
 
 ### 1. Dependency
 ```bash
